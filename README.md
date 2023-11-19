@@ -23,6 +23,24 @@
 
 - 📫 How to reach me **pcsplus23@gmail.com**
 
+</table>
+---
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=PrasadSenavirathna&theme=dark&show_icons=true&count_private=true" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=pcsplus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PrasadSenavirathna&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
+  </td>
+</tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lessonspyt12437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lessonspyt12437" height="30" width="40" /></a>
@@ -69,15 +87,6 @@
 
 </p>
 <hr>
-<h3 align="center">🔥 My Statistics:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pcsplus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pcsplus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pcsplus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 <img src="https://raw.githubusercontent.com/pcsplus/pcsplus/output/snake.svg" alt="Snake animation" />
 
 ###
