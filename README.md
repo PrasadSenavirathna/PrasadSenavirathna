@@ -31,8 +31,8 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=PrasadSenavirathna&theme=dark&show_icons=true&count_private=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=pcsplus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <br><hr>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=PrasadChandima&theme=dark" alt="GitHub Streak" />
 </td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PrasadSenavirathna&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
