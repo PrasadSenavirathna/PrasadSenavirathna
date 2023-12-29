@@ -17,7 +17,7 @@
 
 - 👀 I’m interested in Web Development & Mobile app Development
 
-- 🌱 I’m currently learning **OOP with JAVA**
+- 🌱 I’m currently learning **MERN stack web development and Kotlin**
 
 - 💬 Ask me about **Any Questions**
 
