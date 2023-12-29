@@ -68,6 +68,7 @@
 </p>
 <h3 align="left">Tools:</h3>
 <p>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.svg" alt="adobe premiere" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
